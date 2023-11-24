@@ -1,0 +1,12 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+, "redux/slice/homeSlice.js", "components/Home/Header.jsx", "components/Home/GoogleMapView.jsx", "constants/Icons.js", "constants/Colors.js", "app/index.jsx", "app/_layout.jsx", "app/(tabs)/saved.jsx", "app/(tabs)/profile.jsx", "app/(tabs)/home.jsx", "app/(tabs)/booking.jsx", "app/(tabs)/_layout.jsx"  ]
+}
