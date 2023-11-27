@@ -34,7 +34,7 @@ const NotLogin = () => {
         }}
       >
         <Image
-          source={require('./../../assets/images/fp.png')}
+          source={require('./../../assets/images/halamandepan.png')}
           style={{ width: 200, height: 200 }}
         />
         <Text style={{ fontSize: 20 }}>Not Logged In ?</Text>
